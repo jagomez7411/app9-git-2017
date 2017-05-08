@@ -17,11 +17,6 @@ $('#watch').on('click', function (){
 	
 }
 
-$('#stopw').on('click', function (){
-	 navigator.geolocation.clearWatch(watchID);
-	
-});
-
 	function getPosition() {
 
    var options = {
