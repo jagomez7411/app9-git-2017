@@ -5,7 +5,7 @@ xmlns:gap = "http://phonegap.com/ns/1.0"
 id = "com.phonegap.example9"
 version = "1.0.0">
 
-<name> app9 Geolocalizacion y acelerometro </name>
+<name> app9-2017 Geolocalizacion </name>
 
 <description>
 Aplicacion que muestra la ubicacion de acuerdo al GPS del dispositivo 
